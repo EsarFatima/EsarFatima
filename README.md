@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Esar Fatima 👋
 ### 6th Semester Student · AI & Automation Enthusiast · Professional Rabbit-Hole Diver
 
 > *"I automate things so I can spend more time learning how to automate more things."*
