@@ -74,14 +74,6 @@ Big goals, small ego (mostly):
 
 > *These sections fill up fast once finals are over. Watch this space.*
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsarFatima&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsarFatima&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
